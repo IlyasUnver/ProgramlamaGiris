@@ -27,6 +27,7 @@ namespace ClassMetotDemo
             customerManager.Delete(customer2);
             customerManager.List(customer3);
 
+
         }
     }
 }
